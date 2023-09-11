@@ -1,0 +1,3 @@
+fdk
+oci
+mysql-connector-python
